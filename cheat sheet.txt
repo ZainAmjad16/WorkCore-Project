@@ -1,0 +1,18 @@
+touch . gltxgnore
+git config
+git config
+git init
+git add .
+git commit
+git status
+ssh-keygen
+tail <path
+git remote
+--global user. name Harry
+--global user. email youremail@example.corn
+-m "Initial Commit"
+# Just to see
+-t rsa -b 4096 -C "youremail@example .com"
+to id_rsa . pub> # Add this key to your GitHub account
+add orign <ssh url.git>
+it ush ori in master
